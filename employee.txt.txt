@@ -1,1 +1,1 @@
-This application is for creating and modifying the employee details.
+Application is suppose to be realtime
